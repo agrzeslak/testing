@@ -1,0 +1,20 @@
+.elementor-145 .elementor-element.elementor-element-0e383e6{--spacer-size:29px;}.elementor-145 .elementor-element.elementor-element-c4d166a{text-align:center;}.elementor-145 .elementor-element.elementor-element-c4d166a .elementor-heading-title{color:var( --e-global-color-primary );font-family:"FKGrotesk-Regular", Sans-serif;font-size:19px;font-weight:400;}.elementor-145 .elementor-element.elementor-element-0710b6a .elementor-accordion-icon, .elementor-145 .elementor-element.elementor-element-0710b6a .elementor-accordion-title{color:#353535;}.elementor-145 .elementor-element.elementor-element-0710b6a .elementor-accordion-icon svg{fill:#353535;}.elementor-145 .elementor-element.elementor-element-0710b6a .elementor-accordion-title{font-family:"PxGroteskRegular", Sans-serif;font-size:22px;font-weight:400;text-transform:lowercase;text-decoration:none;}.elementor-145 .elementor-element.elementor-element-0710b6a .elementor-tab-content{font-family:"FKGrotesk-Regular", Sans-serif;font-size:14px;font-weight:400;}.elementor-145 .elementor-element.elementor-element-0710b6a > .elementor-widget-container{margin:0px 200px 0px 200px;}@media(max-width:790px){.elementor-145 .elementor-element.elementor-element-0e383e6{--spacer-size:10px;}.elementor-145 .elementor-element.elementor-element-0710b6a .elementor-accordion-title{font-size:17px;}.elementor-145 .elementor-element.elementor-element-0710b6a > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'FKGrotesk-Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2022/12/FK-Grotesk-Monospaced.woff2') format('woff2'),
+		url('/wp-content/uploads/2022/12/FK-Grotesk-Monospaced.woff') format('woff'),
+		url('/wp-content/uploads/2022/12/FK-Grotesk-Monospaced.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'PxGroteskRegular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2022/12/Px-Grotesk-Regular.woff2') format('woff2'),
+		url('/wp-content/uploads/2022/12/Px-Grotesk-Regular.woff') format('woff'),
+		url('/wp-content/uploads/2022/12/Px-Grotesk-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,10 @@
+.elementor-2099 .elementor-element.elementor-element-600a49f{--spacer-size:142px;}.elementor-2099 .elementor-element.elementor-element-cb67167{columns:1;column-gap:0px;text-align:center;color:var( --e-global-color-text );font-family:"PxGroteskRegular", Sans-serif;font-size:14px;line-height:25px;letter-spacing:0px;word-spacing:0px;}.elementor-2099 .elementor-element.elementor-element-cb67167 > .elementor-widget-container{margin:0px 40px 0px 40px;padding:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-2099 .elementor-element.elementor-element-c77df39{text-align:right;}.elementor-2099 .elementor-element.elementor-element-c77df39 img{height:500px;object-fit:cover;object-position:center center;}.elementor-2099 .elementor-element.elementor-element-4f9160f img{height:432px;object-fit:cover;object-position:center center;}.elementor-2099 .elementor-element.elementor-element-559fbe1{--spacer-size:50px;}.elementor-2099 .elementor-element.elementor-element-e642cb8 img{height:432px;object-fit:cover;object-position:center center;}.elementor-2099 .elementor-element.elementor-element-f73a46b{--spacer-size:50px;}.elementor-2099 .elementor-element.elementor-element-f3b1c3a img{height:432px;object-fit:cover;object-position:center center;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'PxGroteskRegular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('/wp-content/uploads/2022/12/Px-Grotesk-Regular.woff2') format('woff2'),
+		url('/wp-content/uploads/2022/12/Px-Grotesk-Regular.woff') format('woff'),
+		url('/wp-content/uploads/2022/12/Px-Grotesk-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
